@@ -30,8 +30,3 @@ item:
 clients_logo_slider:
   enable: true
   title: Sponzori
-menu:
-  main:
-    URL: portfolio
-    name: Projekti
-    weight: 3
