@@ -2,12 +2,12 @@
 label: Project
 hide_body: true
 fields:
-- name: title
+- name: naslov
   type: text
   config:
     required: false
-  label: Title
-- name: description
+  label: Naslov
+- name: opis
   type: textarea
   default: ''
   config:
@@ -15,4 +15,4 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Description
+  label: Opis
