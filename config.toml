@@ -27,7 +27,7 @@ description = "Web stranica Kluba mladih Split."
 email = "klubmladih.split@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/KMS_logo_Final_r-1.png"
+logo = "images/Logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
