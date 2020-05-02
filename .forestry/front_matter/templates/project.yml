@@ -16,3 +16,13 @@ fields:
     schema:
       format: markdown
   label: Opis
+- name: naslovna_slika
+  type: file
+  config:
+    maxSize: 64
+  label: Naslovna slika
+- name: podnaslov
+  type: text
+  config:
+    required: false
+  label: Podnaslov
