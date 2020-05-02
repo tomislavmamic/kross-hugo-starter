@@ -26,3 +26,5 @@ fields:
   config:
     required: false
   label: Podnaslov
+pages:
+- content/projects/Kreativni Mladi Strastveni.md
