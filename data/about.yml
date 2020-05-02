@@ -17,7 +17,7 @@ work_process:
       tempor incididunt ut labore et dolore magna aliqua.
 team:
   enable: true
-  title: My Team
+  title: Naš tim
   team_member:
   - title: Jack Schenziwe
     image: images/team/member-1.png
