@@ -28,8 +28,8 @@ email = "klubmladih.split@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo_77x35.svg"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "#41228e"
+theme_color = "#1db0f4"
 [params.contact]
 enable = true
 form_action = "#"
