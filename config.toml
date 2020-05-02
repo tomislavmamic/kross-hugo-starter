@@ -4,8 +4,8 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Klub mladih Split"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "o-nama"
+name = "O nama"
 weight = 2
 [[menu.main]]
 URL = "blog"
