@@ -16,7 +16,7 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "projekti"
+URL = "projects"
 name = "Projekti"
 weight = 4
 [[menu.main]]
