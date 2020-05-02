@@ -4,21 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Klub mladih Split"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Projects"
-weight = 3
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "Split, Croatia"
 author = ""
@@ -27,7 +27,7 @@ description = "Web stranica Kluba mladih Split."
 email = "klubmladih.split@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/KMS_logo_Final_r-1.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
