@@ -4,9 +4,25 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Klub mladih Split"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "forum"
+name = "Forum"
+weight = "6"
+[[menu.main]]
+URL = "about"
+name = "O nama"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "projekti"
+name = "Projekti"
 weight = 4
+[[menu.main]]
+URL = "kontakt"
+name = "Kontakt"
+weight = 5
 [params]
 address = "Split, Croatia"
 author = "Klub mladih Split"
