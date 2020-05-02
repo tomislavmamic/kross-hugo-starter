@@ -16,8 +16,8 @@ URL = "projekti"
 name = "Projekti"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "kontakt"
+name = "Kontakt"
 weight = 5
 [params]
 address = "Split, Croatia"
