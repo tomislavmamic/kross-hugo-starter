@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Klub mladih Split"
 [[menu.main]]
+URL = "forum"
+name = "Forum"
+weight = "6"
+[[menu.main]]
 URL = "o-nama"
 name = "O nama"
 weight = 2
