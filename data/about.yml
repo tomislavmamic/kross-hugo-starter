@@ -1,7 +1,7 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: Osnovne odrednice
   item:
   - title: Vizija
     icon: images/icons/plan.png
